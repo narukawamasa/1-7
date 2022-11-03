@@ -16,3 +16,15 @@ header {
 .head-text {
 
 }
+
+main {
+  display: flex;
+  justify-content: center;
+  padding: 50px 0;
+}
+
+.blog {
+  width:840px;
+  border-bottom: 3px solid #f7f7f7;
+  margin-bottom: 30px;
+}
